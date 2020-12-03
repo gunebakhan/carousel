@@ -1,0 +1,9 @@
+/* img {
+    max-width: 60vw;
+    max-height: 60vw;
+ } */
+
+ .w-100 {
+    width: 100% !important;
+    height: 100vh;
+  }

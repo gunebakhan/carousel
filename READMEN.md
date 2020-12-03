@@ -1,0 +1,1 @@
+# I made a carousel which takes images and qoutes from two separate apis
